@@ -5,7 +5,7 @@ Shell00 = 100%
 
 Shell01 = 55% (ex01 - ex05 = OK / ex06 = KO / ex07 = OK)
 
-C00 = 85% (ex08 = KO)
+C00 = 100%
 
 C01 = 100%
 
