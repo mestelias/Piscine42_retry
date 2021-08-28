@@ -46,10 +46,10 @@ void	rush(int x, int y)
 	cnum = 0;
 	if (x <= 0 || y <= 0)
 		return ;
-	while (a <= y)
+	while (a < y)
 	{
 		b = 1;
-		while (b <= x)
+		while (b < x)
 		{
 			cnum = ft_get_cnum(x, y, a, b);
 			ft_putchar(str[cnum]);
