@@ -3,7 +3,7 @@ Retry Piscine 42
 
 Shell00 = 100%
 
-Shell01 = 55% (ex01 - ex05 = OK / ex06 = KO / ex07 = OK)
+Shell01 = 55% (ex01 - ex05 = OK / ex06 = KO (je l'ai corrigé) / ex07 = OK)
 
 C00 = 100%
 
