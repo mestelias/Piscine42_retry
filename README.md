@@ -27,4 +27,4 @@ C09 = 100%
 
 Rus00 = 84% (J'ai apporté les modifications pour qu'il passe a 100% + les bonus)
 
-Rush01 = 0% (Tout fonctionne sauf avec le cas suivant : "4321122243211224", si vous trouvez le moyen de faire fonctionner ce test, le rush01 passe a 100%)
+Rush01 = 0% (Tout fonctionne sauf avec le cas suivant : "4 3 2 1 1 2 2 2 4 3 2 1 1 2 2 4", si vous trouvez le moyen de faire fonctionner ce test, le rush01 passe a 100%)
