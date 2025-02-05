@@ -1,5 +1,5 @@
-# Piscine42_retry
-Retry Piscine 42
+# Piscine
+Piscine 42
 
 Shell00 = 100%
 
